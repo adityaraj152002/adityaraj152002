@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Adityaraj</h1>
 <h3 align="center">Trying to become a JAVA developer</h3>
-<img align="right" alt="Coding" width="400" src="https://swall.teahub.io/photos/small/51-512127_hd-wallpaper-tony-stark-tony-stark-iron-man.jpg">
+<img align="right" alt="Coding" width="400" src="https://tipsmake.com/data0/mimages/Things-to-Look-for-in-Your-Next-Java-Developer.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaraj152002&label=Profile%20views&color=0e75b6&style=flat" alt="adityaraj152002" /> </p>
 

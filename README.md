@@ -1,4 +1,4 @@
-
+<body style="background:'black'">
 <h1 align="center">Hi 👋, I'm Adityaraj</h1>
 <h3 align="center">Trying to become a JAVA developer</h3>
 <img align="right" alt="Coding" width="400" src="https://tipsmake.com/data0/mimages/Things-to-Look-for-in-Your-Next-Java-Developer.jpg">
@@ -27,7 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj152002&" alt="adityaraj152002" /></p>
 
-
+</body>
 
 
 

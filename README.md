@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-color: #f0f0f0; /* Replace with your desired background color */
+      /* Add any other CSS styles you want */
+    }
+  </style>
+</head>
+<body>
 
 <h1 align="center">Hi 👋, I'm Adityaraj</h1>
 <h3 align="center">Trying to become a JAVA developer</h3>
@@ -27,6 +38,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj152002&" alt="adityaraj152002" /></p>
 
-
-
-
+</body>
+</html>
